@@ -11,5 +11,5 @@ The game is based on 3 simple rules
 ## How to run?
 ./gol.py probablity time
 
-probablity = probability that a given cell will initially have a valid pixel. Input of 60 means, probablity is 1/60 for all the pixels.
-time = time in seconds after which each iteration of simulation should run.
+probablity = Probability that a given cell will initially have a valid pixel. Input of 60 means, probablity is 1/60 for all the pixels.
+time = Time in seconds after which each iteration of simulation should run.
